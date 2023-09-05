@@ -1,0 +1,15 @@
+http://bustime.mta.info/wiki/Developers/Index
+
+OneBusAway seems not useful - only has static information (e.g., locations of bus stops). No real time info
+
+
+Can use SIRI StopMonitoring
+
+
+- Call StopMonitoring to get a single MonitoredVehicleJourney
+- Look inside the MVJ to get the departure time in ISO8601 format
+- Convert from ISO8601 to human readable time
+
+
+Data is here:
+http://web.mta.info/developers/developer-data-terms.html#data

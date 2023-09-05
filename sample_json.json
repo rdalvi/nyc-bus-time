@@ -1,0 +1,140 @@
+{
+    "Siri": {
+        "ServiceDelivery": {
+            "ResponseTimestamp": "2023-09-05T10:15:24.807-04:00",
+            "StopMonitoringDelivery": [
+                {
+                    "MonitoredStopVisit": [
+                        {
+                            "MonitoredVehicleJourney": {
+                                "LineRef": "MTA NYCT_B63",
+                                "DirectionRef": "0",
+                                "FramedVehicleJourneyRef": {
+                                    "DataFrameRef": "2023-09-05",
+                                    "DatedVehicleJourneyRef": "MTA NYCT_JG_D3-Weekday-054800_B63_659"
+                                },
+                                "JourneyPatternRef": "MTA_B630022",
+                                "PublishedLineName": "B63",
+                                "OperatorRef": "MTA NYCT",
+                                "OriginRef": "MTA_306619",
+                                "DestinationName": "PIER 6 BKLYN BRIDGE PARK via 5 AV",
+                                "SituationRef": [
+                                    {
+                                        "SituationSimpleRef": "MTA NYCT_lmm:planned_work:9418"
+                                    }
+                                ],
+                                "Monitored": true,
+                                "VehicleLocation": {
+                                    "Longitude": -73.984062,
+                                    "Latitude": 40.671857
+                                },
+                                "Bearing": 50.300926,
+                                "ProgressRate": "normalProgress",
+                                "BlockRef": "MTA NYCT_JG_D3-Weekday_C_JG_21000_B63-659",
+                                "VehicleRef": "MTA NYCT_354",
+                                "MonitoredCall": {
+                                    "AimedArrivalTime": "2023-09-05T10:14:34.000-04:00",
+                                    "ExpectedArrivalTime": "2023-09-05T10:19:40.856-04:00",
+                                    "AimedDepartureTime": "2023-09-05T10:14:34.000-04:00",
+                                    "ExpectedDepartureTime": "2023-09-05T10:19:40.856-04:00",
+                                    "Extensions": {
+                                        "Distances": {
+                                            "PresentableDistance": "2 stops away",
+                                            "DistanceFromCall": 628.21,
+                                            "StopsFromCall": 2,
+                                            "CallDistanceAlongRoute": 8810.59
+                                        },
+                                        "VehicleFeatures": {
+                                            "StrollerVehicle": false
+                                        }
+                                    },
+                                    "StopPointRef": "MTA_308209",
+                                    "VisitNumber": 1,
+                                    "StopPointName": "5 AV/UNION ST"
+                                },
+                                "OnwardCalls": {}
+                            },
+                            "RecordedAtTime": "2023-09-05T10:15:04.000-04:00"
+                        },
+                        {
+                            "MonitoredVehicleJourney": {
+                                "LineRef": "MTA NYCT_B63",
+                                "DirectionRef": "0",
+                                "FramedVehicleJourneyRef": {
+                                    "DataFrameRef": "2023-09-05",
+                                    "DatedVehicleJourneyRef": "MTA NYCT_JG_D3-Weekday-056300_B63_668"
+                                },
+                                "JourneyPatternRef": "MTA_B630022",
+                                "PublishedLineName": "B63",
+                                "OperatorRef": "MTA NYCT",
+                                "OriginRef": "MTA_306619",
+                                "DestinationName": "PIER 6 BKLYN BRIDGE PARK via 5 AV",
+                                "SituationRef": [
+                                    {
+                                        "SituationSimpleRef": "MTA NYCT_lmm:planned_work:9418"
+                                    }
+                                ],
+                                "Monitored": true,
+                                "VehicleLocation": {
+                                    "Longitude": -73.991419,
+                                    "Latitude": 40.663237
+                                },
+                                "Bearing": 43.181698,
+                                "ProgressRate": "normalProgress",
+                                "BlockRef": "MTA NYCT_JG_D3-Weekday_C_JG_17640_B63-651",
+                                "VehicleRef": "MTA NYCT_454",
+                                "MonitoredCall": {
+                                    "AimedArrivalTime": "2023-09-05T10:29:34.000-04:00",
+                                    "ExpectedArrivalTime": "2023-09-05T10:27:45.572-04:00",
+                                    "AimedDepartureTime": "2023-09-05T10:29:34.000-04:00",
+                                    "ExpectedDepartureTime": "2023-09-05T10:27:45.572-04:00",
+                                    "Extensions": {
+                                        "Distances": {
+                                            "PresentableDistance": "1.1 miles away",
+                                            "DistanceFromCall": 1770.69,
+                                            "StopsFromCall": 9,
+                                            "CallDistanceAlongRoute": 8810.59
+                                        },
+                                        "VehicleFeatures": {
+                                            "StrollerVehicle": false
+                                        }
+                                    },
+                                    "StopPointRef": "MTA_308209",
+                                    "VisitNumber": 1,
+                                    "StopPointName": "5 AV/UNION ST"
+                                },
+                                "OnwardCalls": {}
+                            },
+                            "RecordedAtTime": "2023-09-05T10:14:58.000-04:00"
+                        },
+                        {
+                            "MonitoredVehicleJourney": {
+                                "LineRef": "MTA NYCT_B63",
+                                "DirectionRef": "0",
+                                "FramedVehicleJourneyRef": {
+                                    "DataFrameRef": "2023-09-05",
+                                    "DatedVehicleJourneyRef": "MTA NYCT_JG_D3-Weekday-057800_B63_660"
+                                },
+                                "JourneyPatternRef": "MTA_B630022",
+                                "PublishedLineName": "B63",
+                                "OperatorRef": "MTA NYCT",
+                                "OriginRef": "MTA_306619",
+                                "DestinationName": "PIER 6 BKLYN BRIDGE PARK via 5 AV",
+                                "SituationRef": [
+                                    {
+                                        "SituationSimpleRef": "MTA NYCT_lmm:planned_work:9418"
+                                    }
+                                ],
+                                "Monitored": true,
+                                "VehicleLocation": {
+                                    "Longitude": -74.006572,
+                                    "Latitude": 40.648685
+                                },
+                                "Bearing": 44.49072,
+                                "ProgressRate": "normalProgress",
+                                "BlockRef": "MTA NYCT_JG_D3-Weekday_C_JG_22800_B63-660",
+                                "VehicleRef": "MTA NYCT_434",
+                                "MonitoredCall": {
+                                    "AimedArrivalTime": "2023-09-05T10:43:08.000-04:00",
+                                    "ExpectedArrivalTime": "2023-09-05T10:42:53.892-04:00",
+                                    "AimedDepartureTime": "2023
